@@ -3,7 +3,7 @@ Frontend Developer | UI/UX | Web Development
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am a Computer Systems Engineering student focused on **frontend development and user-centered design**.
 
