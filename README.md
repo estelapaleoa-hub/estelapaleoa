@@ -1,5 +1,20 @@
 ## Hi, I´m Estela!
-Frontend Developer | UI/UX | Web Development
+
+---
+```python
+class FrontendDeveloper:
+    name = "María Estela Paleo Arcos"
+    role = "Frontend Developer | UI/UX & Web Development"
+    location = "Mexico"
+    focus = [
+        "Frontend Development",
+        "UI/UX Design",
+        "Web Interfaces",
+        "Digital Product Implementation"
+    ]
+```
+
+### `Designing user-centered web experiences with clarity and functionality`
 
 ---
 
@@ -35,7 +50,7 @@ Currently, I am strengthening my skills in **React, frontend architecture, and r
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Mental Health App – InnovaTecNM
 Academic project selected at the regional stage, focused on usability and interface design.
