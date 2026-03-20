@@ -1,4 +1,6 @@
-## Hi, I´m Estela!
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&color=F5F5F5&background=00000000&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Estela+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 ---
 ```python
@@ -14,7 +16,9 @@ class FrontendDeveloper:
     ]
 ```
 
-### `Designing user-centered web experiences with clarity and functionality`
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F2C94C&background=00000000&vCenter=true&width=900&lines=Designing+user-centered+web+experiences+with+clarity+and+functionality" alt="Typing SVG" />
+</p>
 
 ---
 
