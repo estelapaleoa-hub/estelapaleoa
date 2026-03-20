@@ -34,9 +34,6 @@ Currently, I am strengthening my skills in **React, frontend architecture, and r
 
 ---
 
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=github-dark" />
 
 ## Tech Stack
 
