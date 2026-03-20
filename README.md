@@ -17,7 +17,7 @@ class FrontendDeveloper:
 ```
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F2C94C&background=00000000&vCenter=true&width=900&lines=Designing+user-centered+web+experiences+with+clarity+and+functionality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F2C94C&background=00000000&vCenter=true&width=900&lines=Strengthening+my+skills+in+software+development+and+interface+design" alt="Typing SVG" />
 </p>
 
 ---
