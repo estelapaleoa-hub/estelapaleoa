@@ -37,19 +37,19 @@ Currently, I am strengthening my skills in **React, frontend architecture, and r
 
 ### Tech Stack
 
-### Frontend
+#### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### UI/UX & Design
+#### UI/UX & Design
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" /> Adobe XD
 
-### Web & CMS
+#### Web & CMS
 <img src="https://skillicons.dev/icons?i=wordpress" /> Hostinger
 
-### Cloud & Deployment
+#### Cloud & Deployment
 <img src="https://skillicons.dev/icons?i=aws" /> (basic)
 
-### Tools
+#### Tools
 <img src="https://skillicons.dev/icons?i=git,github" /> Jira
 
 ---
