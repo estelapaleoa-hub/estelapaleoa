@@ -57,7 +57,7 @@ Currently, I am strengthening my skills in **React, frontend architecture, and r
 ### Projects
 
 #### Mental Health App – InnovaTecNM
-Academic project selected at the regional stage, focused on usability and interface design.
+Currently developing my skills in software development 
 
 - Designed UI prototypes with Adobe XD
 - Developed web interfaces using HTML, CSS, and JavaScript
