@@ -22,7 +22,7 @@ class FrontendDeveloper:
 
 ---
 
-## About Me
+### About Me
 
 I am a Computer Systems Engineering student focused on **frontend development and user-centered design**.
 
@@ -35,28 +35,28 @@ Currently, I am strengthening my skills in **React, frontend architecture, and r
 ---
 
 
-## Tech Stack
+### Tech Stack
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### UI/UX & Design
+#### UI/UX & Design
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" /> Adobe XD
 
-### Web & CMS
+#### Web & CMS
 <img src="https://skillicons.dev/icons?i=wordpress" /> Hostinger
 
-### Cloud & Deployment
+#### Cloud & Deployment
 <img src="https://skillicons.dev/icons?i=aws" /> (basic)
 
-### Tools
+#### Tools
 <img src="https://skillicons.dev/icons?i=git,github" /> Jira
 
 ---
 
-## Projects
+### Projects
 
-### Mental Health App – InnovaTecNM
+#### Mental Health App – InnovaTecNM
 Academic project selected at the regional stage, focused on usability and interface design.
 
 - Designed UI prototypes with Adobe XD
@@ -68,7 +68,7 @@ Academic project selected at the regional stage, focused on usability and interf
 
 ---
 
-### Academic Web Projects
+#### Academic Web Projects
 Hands-on experience in building and deploying web solutions.
 
 - Developed frontend interfaces and layouts
@@ -80,7 +80,7 @@ Hands-on experience in building and deploying web solutions.
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 - 💼 LinkedIn: www.linkedin.com/in/maria-estela-paleo-arcos-b6826b3b6
 - 📧 Email: estelapaleoa@gmail.com
