@@ -15,10 +15,8 @@ Currently, I am strengthening my skills in **React, frontend architecture, and r
 
 ---
 
-## ⚙️ Tech Stack
 
-### Frontend
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -39,7 +37,7 @@ Currently, I am strengthening my skills in **React, frontend architecture, and r
 
 ## 🚀 Projects
 
-### 🧩 Mental Health App – InnovaTecNM
+### Mental Health App – InnovaTecNM
 Academic project selected at the regional stage, focused on usability and interface design.
 
 - Designed UI prototypes with Adobe XD
@@ -51,7 +49,7 @@ Academic project selected at the regional stage, focused on usability and interf
 
 ---
 
-### 🌐 Academic Web Projects
+### Academic Web Projects
 Hands-on experience in building and deploying web solutions.
 
 - Developed frontend interfaces and layouts
